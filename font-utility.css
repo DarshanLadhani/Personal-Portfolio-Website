@@ -1,0 +1,52 @@
+* {
+    font-family: Poppins;
+}
+
+html {
+    font-size: 18px;
+}
+
+.poppins-12px {
+    font-size: 12px;
+    font-weight: 500;
+}
+.poppins-14px {
+    font-size:0.778rem;
+    font-weight: 500;
+}
+.poppins-18px {
+    font-size:1rem;
+    font-weight: 600;
+}
+.poppins-23px {
+    font-size:1.278rem;
+    font-weight: 700;
+}
+.poppins-28px {
+    font-size:1.556rem;
+    font-weight: 700;
+}
+.poppins-35px {
+    font-size:1.944rem;
+    font-weight: bold;
+}
+.poppins-44px {
+    font-size:2.444rem;
+    font-weight: bold;
+}
+.poppins-55px {
+    font-size:3.056rem;
+    font-weight: bold;
+}
+.poppins-69px {
+    font-size:3.833rem;
+    font-weight: bold;
+}
+
+.poppins-14px-withoutbold {
+    font-size: 0.778rem;
+}
+.poppins-18px-withoutbold {
+    font-size: 1rem;
+}
+
